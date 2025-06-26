@@ -10,7 +10,7 @@ This project builds a binary classification model using the **SONAR dataset** to
 
 - This is a **supervised machine learning** project focused on **binary classification**.
 - The model used: **Logistic Regression**
-- Dataset Source: [UCI ML Repository - Sonar Dataset](https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Sonar,+Mines+vs.+Rocks%29)
+- Dataset Source: Included locally as `Copy of sonar data.csv` in the repository
 - Evaluation Metric: **Accuracy Score**
 - Target Labels:  
   - `R` = Rock  
