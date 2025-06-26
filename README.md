@@ -84,4 +84,3 @@ prediction = model.predict([input_data])
 ## 🙌 Acknowledgements
 
 - [UCI ML Repository - Sonar Dataset](https://archive.ics.uci.edu/dataset/151/connectionist+bench+sonar+mines+vs+rocks))
-- 
