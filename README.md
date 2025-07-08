@@ -66,8 +66,8 @@ prediction = model.predict([input_data])
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sonar-rock-vs-mine-prediction.git 
-   cd sonar-rock-vs-mine-prediction
+   git clone https://github.com/pramoduppoor07/SONAR-Rock-vs-Mine-Classification.git 
+   cd SONAR-Rock-vs-Mine-Classification
    ```
 2. Run the Jupyter Notebook:
    ````bash
