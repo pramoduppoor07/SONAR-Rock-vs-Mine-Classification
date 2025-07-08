@@ -42,6 +42,7 @@ The dataset consists of **208 instances** and **61 columns**:
   - **Testing set**: 10%
 - Model Used: `LogisticRegression()`
 
+---
 ###  Accuracy Results
 
 | Dataset        | Accuracy     |
@@ -68,7 +69,7 @@ prediction = model.predict([input_data])
    git clone https://github.com/yourusername/sonar-rock-vs-mine-prediction.git 
    cd sonar-rock-vs-mine-prediction
    ```
-2. 2. Run the Jupyter Notebook:
+2. Run the Jupyter Notebook:
    ````bash
    jupyter notebook
 
